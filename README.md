@@ -5,9 +5,11 @@ API Rest to manage projects with :
 * Tags
 
 ## Project description
-A main board with lists. Lists have a title and a position
-Lists have cards, and each card have a title and a position in the list
+A main board with lists
+Lists have a title and a position in the board. Lists have cards
+Cards have a title, description, color(optional) and a position in the list
 Each card can have tags
+Tags have a title and a color(optional)
 
 ## Stack
 * Node JS
